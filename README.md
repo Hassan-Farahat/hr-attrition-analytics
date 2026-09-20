@@ -20,4 +20,4 @@ An interactive HR analytics dashboard evaluating workforce retention patterns ac
 ## 🚀 How to Run Locally
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Hassan-Farahat/hr-attrition-analytics.git](https://github.com/Hassan-Farahat/hr-attrition-analytics.git)
+   git clone https://github.com/Hassan-Farahat/hr-attrition-analytics.git
